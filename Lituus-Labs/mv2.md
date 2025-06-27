@@ -1,1 +1,1 @@
-
+Summary of a generalized more secure V2: https://docs.google.com/document/d/1xwX44y2dqEegpeVVG9_TLWD9BnNXjFo0LVicqtygnFw

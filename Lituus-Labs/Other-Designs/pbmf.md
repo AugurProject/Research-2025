@@ -1,1 +1,1 @@
-
+Summary of generalized mintable modification of price-based forking: https://docs.google.com/document/d/1DtInLIVi9pky45WKfpEcA-VYOKP_HtQhn57Vms6aBgA
